@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace R5T.T0008.Lib
+namespace R5T.T0008
 {
     public static class GitHelper
     {
